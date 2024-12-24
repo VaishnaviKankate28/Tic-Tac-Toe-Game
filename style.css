@@ -12,6 +12,10 @@ main{
     margin-top: 8vmin;
 }
 
+main h1{
+    color: #fff;
+}
+
 .container {
     height: 70vh;
     display: flex;
